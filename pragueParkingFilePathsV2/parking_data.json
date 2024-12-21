@@ -1,0 +1,1502 @@
+[
+  {
+    "Number": 1,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 2,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 3,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 4,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 5,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 6,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 7,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 8,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 9,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 10,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 11,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 12,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 13,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 14,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 15,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 16,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 17,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 18,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 19,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 20,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 21,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 22,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 23,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 24,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 25,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 26,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 27,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 28,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 29,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 30,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 31,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 32,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 33,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 34,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 35,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 36,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 37,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 38,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 39,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 40,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 41,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 42,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 43,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 44,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 45,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 46,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 47,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 48,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 49,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 50,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 51,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 52,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 53,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 54,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 55,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 56,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 57,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 58,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 59,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 60,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 61,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 62,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 63,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 64,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 65,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 66,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 67,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 68,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 69,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 70,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 71,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 72,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 73,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 74,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 75,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 76,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 77,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 78,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 79,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 80,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 81,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 82,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 83,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 84,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 85,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 86,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 87,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 88,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 89,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 90,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 91,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 92,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 93,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 94,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 95,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 96,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 97,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 98,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 99,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 100,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 101,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 102,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 103,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 104,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 105,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 106,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 107,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 108,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 109,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 110,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 111,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 112,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 113,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 114,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 115,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 116,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 117,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 118,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 119,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 120,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 121,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 122,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 123,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 124,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 125,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 126,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 127,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 128,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 129,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 130,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 131,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 132,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 133,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 134,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 135,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 136,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 137,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 138,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 139,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 140,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 141,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 142,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 143,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 144,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 145,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 146,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 147,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 148,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 149,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 150,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 151,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 152,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 153,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 154,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 155,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 156,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 157,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 158,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 159,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 160,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 161,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 162,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 163,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 164,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 165,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 166,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 167,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 168,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 169,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 170,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 171,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 172,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 173,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 174,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 175,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 176,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 177,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 178,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 179,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 180,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 181,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 182,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 183,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 184,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 185,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 186,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 187,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 188,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 189,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 190,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 191,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 192,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 193,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 194,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 195,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 196,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 197,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 198,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 199,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 200,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 201,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 202,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 203,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 204,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 205,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 206,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 207,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 208,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 209,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 210,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 211,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 212,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 213,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 214,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 215,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 216,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 217,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 218,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 219,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 220,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 221,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 222,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 223,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 224,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 225,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 226,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 227,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 228,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 229,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 230,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 231,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 232,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 233,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 234,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 235,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 236,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 237,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 238,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 239,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 240,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 241,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 242,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 243,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 244,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 245,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 246,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 247,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 248,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 249,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  },
+  {
+    "Number": 250,
+    "ParkedTime": null,
+    "ParkedVehiclesInfo": [],
+    "IsOccupied": false
+  }
+]
